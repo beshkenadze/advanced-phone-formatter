@@ -1,0 +1,23 @@
+{
+  "name": "advance-phone-formatter",
+  "description": "Micro module for phone format",
+  "version": "0.1.0",
+  "keywords": [
+    "format",
+    "phone",
+    "textr"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/beshkenadze/advance-phone-formatter.git"
+  },
+  "dependencies": {
+    "google-libphonenumber": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "main": "index.js",
+  "author": "Aleksandr Beshkenadze <beshkenadze@gmail.com>",
+  "license": "MIT"
+}
