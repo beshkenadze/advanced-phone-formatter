@@ -1,4 +1,4 @@
-# phone-formatter 
+# advanced-phone-formatter
 
   Micro module for advanced phone formating
 
