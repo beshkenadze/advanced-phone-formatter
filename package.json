@@ -1,5 +1,5 @@
 {
-  "name": "advance-phone-formatter",
+  "name": "advanced-phone-formatter",
   "description": "Micro module for phone format",
   "version": "0.1.0",
   "keywords": [
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/beshkenadze/advance-phone-formatter.git"
+    "url": "git://github.com/beshkenadze/advanced-phone-formatter.git"
   },
   "dependencies": {
     "google-libphonenumber": "^0.2.0"
