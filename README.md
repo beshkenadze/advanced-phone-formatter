@@ -5,13 +5,13 @@
 ## Instalation
 
 ```sh
-$ npm install advance-phone-formatter
+$ npm install advanced-phone-formatter
 ```
 
 ## Use
 
 ```js
-var apf = require('advance-phone-formatter')
+var apf = require('advanced-phone-formatter')
 
 apf("89211234567", {"region": "RU"})
 // +7 921 123-45-67
